@@ -35,7 +35,6 @@ export function canSSRAuth<P extends { [key: string]: any }>(fn: GetServerSidePr
                 };
             }
 
-
             return {
                 props: {} as P 
             };
