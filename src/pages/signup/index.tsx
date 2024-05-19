@@ -1,6 +1,6 @@
 import Head from "next/head";
 import styles from "../../../styles/home.module.scss";
-import logoImg from '../../../public/Logo.svg'
+import logoImg from '../../../public/logo.svg'
 import Image from "next/image";
 import { Input } from "../../components/ui/Input";
 import { Button } from "../../components/ui/Button";
